@@ -38,7 +38,5 @@ public abstract class Rectangle extends GeometricObject {
 	public double getArea() {
 		return (height * width);
 	}
-	
-	public abstract double getArea();
 		
 }
