@@ -1,5 +1,5 @@
 
-public abstract class Rectangle extends GeometricObject {
+public class Rectangle extends GeometricObject {
 	private double height;
 	private double width;
 	
